@@ -1,0 +1,15 @@
+# fastapi==0.65.2
+# uvicorn[standard]==0.13.4
+# opencv-python-headless==4.5.2.54
+# rosbag
+# roslib
+# rosdep
+# rosinstall
+# rosinstall-generator
+# rospkg
+
+fastapi
+uvicorn[standard]
+opencv-python-headless
+bagpy
+cv-bridge

@@ -1,0 +1,17 @@
+/* style.css */
+body {
+    text-align: center;
+}
+#title {
+    margin: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+#topicSelect {
+    margin: 10px;
+}
+#imageDisplay {
+    max-width: 90%;
+    margin-top: 20px;
+}
+ 
